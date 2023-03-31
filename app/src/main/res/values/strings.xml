@@ -1,0 +1,109 @@
+<resources>
+    <string name="txt1">ÁNIMAS TEAM</string>
+    <string name="txt2">Tu mejor version</string>
+    <string name="txt3">NOMBRE:</string>
+    <string name="txt4">APELLIDO:</string>
+    <string name="txt5">FECHA DE INICIO:</string>
+    <string name="btn1">INGRESE</string>
+    <string name="btn2">ALUMNO/A</string>
+    <string name="btn3">HORARIOS</string>
+    <string name="btn4">PAGOS</string>
+    <string name="btn5">TEST</string>
+    <string name="btn6">ESTADO DE CUOTA</string>
+    <string name="btn7">RECORRIDOS</string>
+    <string name="btn8">NOVEDADES</string>
+    <string name="textView_horario">HORARIOS</string>
+    <string name="horario7">7 am</string>
+    <string name="horario14">14 hs</string>
+    <string name="horario19">19 hs</string>
+    <string name="textView_dias">DIAS</string>
+    <string name="textView_lunes">LUNES</string>
+    <string name="textView_miercoles">MIERCOLES</string>
+    <string name="textView_viernes">VIERNES</string>
+    <string name="textView_lugar_encuentro">LUGAR DE ENCUENTRO</string>
+    <string name="textView_ubicacion">Esquina Chile y Rondeau (Plaza de las Banderas)</string>
+    <string name="textView_cuota">CUOTA MENSUAL $3500</string>
+    <string name="textView_ctadni">CTA DNI: 31227905                       CBU: 0140417703630051858236 ALIAS: FACU.GACHI.PACHI</string>
+    <string name="textView_galicia">BANCO GALICIA CBU: 0070105730004020115459 ALIAS: MADERA.FUTBOL.MINUTO </string>
+    <string name="datosPersonales">DATOS PERSONALES</string>
+    <string name="marcasPersonales">MARCAS PERSONALES</string>
+    <string name="Detalle_alumno">Detalle de Alumno</string>
+
+    //NOMBRES ALUMNOS
+
+    <string name="nameFlorRueda">FLOR RUEDA</string>
+    <string name="nameMauriLima">MAURI LIMA</string>
+    <string name="nameTinchoCaresia">TINCHO CARESIA</string>
+    <string name="nameNazaLpauyade">NAZA LAPUYADE</string>
+    <string name="nameConiEkeroth">CONI EKEROTH</string>
+
+    <string name="carrerasFlor">CARRERAS FLOR RUEDA</string>
+    <string name="carrerasMauri">CARRERAS MAURI LIMA</string>
+    <string name="carrerasTincho">CARRERAS TINCHO CARESIA</string>
+    <string name="carrerasNaza">CARRERAS NAZA LAPUYADE</string>
+    <string name="carrerasConi">CARRERAS CONI EKEROTH</string>
+
+    <string name="app_name">Nuestra Manada</string>
+
+    // FLORENCIA RUEDA
+
+    <string name="datosFlorRueda">Florencia Rueda
+    \nFecha inicio: 01/11/2021
+    \nNacimiento: 24 de marzo 1994
+    \nContacto: 154-601231 </string>
+    <string name="tiemposFlorRueda">Test cooper: 2100 mts
+        \nTest 10k: 50 min
+        \nTest 5km: 19 min
+        \nTandilia 2022: 1:05'</string>
+
+    // MAURI LIMA
+
+    <string name="datosMauriLima">Mauricio Lima
+    \nFecha inicio: 13/10/1983
+    \nNacimiento: 24 de marzo 1994
+    \nContacto: 154-601231 </string>
+    <string name="tiemposMauriLima">Test cooper: 3100 mts
+        \nTest 10k: 45 min
+        \nTest 5km: 19 min
+        \nTandilia 2022: 1:05'</string>
+
+    //MARTIN CARESIA
+
+    <string name="datosTinchoCaresia">Martin Caresia
+    \nFecha inicio: 01/11/2021
+    \nNacimiento: 24 de marzo 1994
+    \nContacto: 154-601231 </string>
+    <string name="tiemposTinchoCaresia">Test cooper: 2100 mts
+        \nTest 10k: 45 min
+        \nTest 5km: 45 min
+        \nTandilia 2022: 1:05'</string>
+
+    // NAZARETH LAPUYADE
+
+    <string name="datosNazarethLapuyade">Nazareth Lapuyade
+    \nFecha inicio: 01/11/2021
+    \nNacimiento: 24 de marzo 1994
+    \nContacto: 154-601231 </string>
+    <string name="tiemposNazarethLapuyade">Test cooper: 2100 mts
+        \nTest 10k: 45 min
+        \nTest 5km: 45 min
+        \nTandilia 2022: 1:05'</string>
+
+    // CONSTANZA EKEROTH
+
+    <string name="datosConiEkeroth">Constanza Ekeroth
+    \nFecha inicio: 01/11/2021
+    \nNacimiento: 24 de marzo 1994
+    \nContacto: 154-601231 </string>
+    <string name="tiemposConiEkeroth">Test cooper: 2100 mts
+        \nTest 10k: 45 min
+        \nTest 5km: 45 min
+        \nTandilia 2022: 1:05'</string>
+
+
+
+
+
+
+
+</resources>
