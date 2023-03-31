@@ -15,7 +15,7 @@
         android:layout_marginTop="14dp"
         android:text="alumno"
         android:textSize="24sp"
-        android:textColor="@color/lavanda"
+        android:textColor="@color/verdeP"
         android:textStyle="bold"
         android:layout_gravity="center" />
 
